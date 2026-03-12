@@ -69,9 +69,9 @@ Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Önemli değişiklikl
 
 Gizlilik politikamız hakkında sorularınız varsa bizimle iletişime geçebilirsiniz:
 
-**E-posta**: [E-POSTA ADRESİNİZİ YAZIN]
+**E-posta**: yunus.yar40@gmail.com
 
-**Geliştirici**: [İSMİNİZİ YAZIN]
+**Geliştirici**: Yunus Emre Çakır
 
 ---
 
